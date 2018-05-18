@@ -27,7 +27,8 @@ description: Angular Resources and Examples
 * [Upgrading and Application to Angular 6: Step by Step (Dan Whalin)](https://blog.codewithdan.com/2018/05/03/upgrading-an-application-to-angular-6-step-by-step/)
 
 ## Related Topics
-* [json-server](https://github.com/typicode/json-server): 
+* [json-server](https://github.com/typicode/json-server): simple rest API server
+    * Create A REST API With JSON Server: [Blog](https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d) | [Youtube](https://www.youtube.com/watch?v=x3NAo8zqdmo)
 
 ## Video
 * [ng-conf 2018 (youtube search)](https://www.youtube.com/results?search_query=ng+conf+2018)

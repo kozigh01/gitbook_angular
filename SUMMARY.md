@@ -2,5 +2,5 @@
 
 * [Angular Resources](README.md)
 * [Projects](projects.md)
-* Angular Project Setup
+* [Angular Project Setup](angular-project-setup.md)
 

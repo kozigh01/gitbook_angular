@@ -24,10 +24,10 @@ description: Angular Resources and Examples
 ## Tutorials
 
 ## Blog Posts
-[Upgrading and Application to Angular 6: Step by Step (Dan Whalin)](https://blog.codewithdan.com/2018/05/03/upgrading-an-application-to-angular-6-step-by-step/)
+* [Upgrading and Application to Angular 6: Step by Step (Dan Whalin)](https://blog.codewithdan.com/2018/05/03/upgrading-an-application-to-angular-6-step-by-step/)
 
 ## Related Topics
-[json-server](https://github.com/typicode/json-server)
+* [json-server](https://github.com/typicode/json-server): 
 
 ## Video
-[ng-conf 2018 (youtube search)](https://www.youtube.com/results?search_query=ng+conf+2018)
+* [ng-conf 2018 (youtube search)](https://www.youtube.com/results?search_query=ng+conf+2018)

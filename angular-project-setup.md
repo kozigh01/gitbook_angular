@@ -4,7 +4,6 @@ description: Instructions related to starting a new Angular project
 
 # Angular Project Setup
 
-# Angular Project Setup
 ## References
 * [Angular CLI - Github readme.md](https://github.com/angular/angular-cli)
 ## Update Node and Angualar CLI - _Optional_

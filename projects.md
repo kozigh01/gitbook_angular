@@ -5,7 +5,3 @@
 * Angular: API Communication and Authentication \(LinkedInLearning\): [Course](https://www.linkedin.com/learning/angular-api-communication-and-authentication) \| [Code](https://github.com/kozigh01/AngularAPICommAndAuth) \| [Demo](https://stackblitz.com/github/kozigh01/AngularAPICommAndAuth/tree/master/my-app)  
 * Angular 6 \(formerly Angular 2\) - The Complete Guide \(Udemy\): [Course](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview) \| [Code](https://github.com/kozigh01/AngularAPICommAndAuth)
 
-
-
-
-

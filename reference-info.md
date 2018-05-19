@@ -1,5 +1,11 @@
 # Reference Info
 
+## Resources
+
+* ​[Angular Site](https://angular.io/)​
+* [json-server](https://github.com/typicode/json-server): simple rest API server
+  * Create A REST API With JSON Server: [Blog](https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d) \| [Youtube](https://www.youtube.com/watch?v=x3NAo8zqdmo)
+
 ## Courses
 
 * [Angular: Routing \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-routing/routing-modularization-and-lazy-loading)
@@ -14,14 +20,9 @@
 
 * [Upgrading and Application to Angular 6: Step by Step \(Dan Whalin\)](https://blog.codewithdan.com/2018/05/03/upgrading-an-application-to-angular-6-step-by-step/)
 
-### Error Solutions
+#### Error Solutions
 
 * [Angular Debugging "Expression has changed after it was checked": Simple Explanation \(and Fix\)](https://blog.angular-university.io/angular-debugging/)
-
-## Related Topics
-
-* [json-server](https://github.com/typicode/json-server): simple rest API server
-  * Create A REST API With JSON Server: [Blog](https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d) \| [Youtube](https://www.youtube.com/watch?v=x3NAo8zqdmo)
 
 ## Video
 

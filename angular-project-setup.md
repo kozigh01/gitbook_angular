@@ -12,15 +12,10 @@ description: Instructions related to starting a new Angular project
 
 ### **Update Node**
 
-* Check current version at command line:  
-
-  `>node --version`
-
-* Download newer node installer at [nodejs.org](https://nodejs.org/en/)
-* Run installer
-* Update npm \(optional\):  
-
-  `npm install -g npm`
+1. Check current version at command line: `>node --version`
+2. Download newer node installer at [nodejs.org](https://nodejs.org/en/)
+3. Run installer
+4. Update npm \(optional\): `npm install -g npm`
 
 ### Update Angular CLI
 

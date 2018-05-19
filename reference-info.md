@@ -1,13 +1,5 @@
 # Reference Info
 
-
-
-## Resource Links
-
-* [Angular](https://angular.io/)
-* [Angular Resource List](https://gist.github.com/kozigh01/14b53aee646eafd6480ffb548b422593#file-angular-resource-list-md)
-* [Angular Project Setup Notes](https://gist.github.com/kozigh01/769a0f1dcd5ff1af335a00d228b9075c)  
-
 ## Courses
 
 * [Angular: Routing \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-routing/routing-modularization-and-lazy-loading)

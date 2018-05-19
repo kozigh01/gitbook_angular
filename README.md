@@ -25,7 +25,8 @@ description: Angular Resources and Examples
 * [Upgrading and Application to Angular 6: Step by Step \(Dan Whalin\)](https://blog.codewithdan.com/2018/05/03/upgrading-an-application-to-angular-6-step-by-step/)
 
 ### Error Solutions
-* [Angular Debugging "Expression has changed after it was checked": Simple Explanation (and Fix)](https://blog.angular-university.io/angular-debugging/)
+
+* [Angular Debugging "Expression has changed after it was checked": Simple Explanation \(and Fix\)](https://blog.angular-university.io/angular-debugging/)
 
 ## Related Topics
 

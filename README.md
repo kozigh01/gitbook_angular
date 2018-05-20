@@ -7,16 +7,17 @@ description: Angular Resources and Examples
 ## Resource Links
 
 * [Angular](https://angular.io/)
-* [Angular Resource List](https://gist.github.com/kozigh01/14b53aee646eafd6480ffb548b422593#file-angular-resource-list-md)
+* [Angular Material Design](https://material.angular.io/)
 * [Angular Project Setup Notes](https://gist.github.com/kozigh01/769a0f1dcd5ff1af335a00d228b9075c)  
 
 ## Courses
 
-* [ ] [Angular: Routing \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-routing/routing-modularization-and-lazy-loading)
-* [ ] [Learning the Angular CLI \(LinkedInLearning\)](https://www.linkedin.com/learning/learning-the-angular-cli-2)
+* [Angular: Routing \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-routing/routing-modularization-and-lazy-loading)
+* [Learning the Angular CLI \(LinkedInLearning\)](https://www.linkedin.com/learning/learning-the-angular-cli-2)
 * [Angular: API Communication and Authentication \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-api-communication-and-authentication)
 * [Learning Angular \(LinkedInLearning\)](https://www.linkedin.com/learning/learning-angular)
 * [Angular 6 \(formerly Angular 2\) - The Complete Guide \(Udemy\)](https://www.udemy.com/the-complete-guide-to-angular-2)
+* [Angular Material](https://app.pluralsight.com/library/courses/angular-material/table-of-contents)
 
 ## Tutorials
 

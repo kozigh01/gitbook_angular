@@ -1,7 +1,3 @@
----
-description: List of Angular projects with optional notes and demos
----
-
 # Projects
 
 * Angular Basic Routing: [Code](https://github.com/kozigh01/angular-basic-routing) \| [Demo](https://stackblitz.com/github/kozigh01/angular-basic-routing)  

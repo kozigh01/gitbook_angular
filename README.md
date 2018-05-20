@@ -21,7 +21,7 @@ description: Angular Resources and Examples
 
 ## Tutorials
 
-*  [Material Design for Bootstrap 4](https://mdbootstrap.com/): [Tutorial](https://mdbootstrap.com/bootstrap-tutorial/)​
+*  [ ] [Material Design for Bootstrap 4](https://mdbootstrap.com/): [Tutorial](https://mdbootstrap.com/bootstrap-tutorial/)​
 
 ## Blog Posts
 

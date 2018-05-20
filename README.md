@@ -13,14 +13,16 @@ description: Angular Resources and Examples
 ## Courses
 
 * [x] [Learning the Angular CLI \(LinkedInLearning\)](https://www.linkedin.com/learning/learning-the-angular-cli-2)
-* [ ] [Angular: Routing \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-routing/routing-modularization-and-lazy-loading)
 * [ ] [Angular 6 \(formerly Angular 2\) - The Complete Guide \(Udemy\)](https://www.udemy.com/the-complete-guide-to-angular-2)
-* [ ] [Angular: API Communication and Authentication \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-api-communication-and-authentication)
-* [ ] [Learning Angular \(LinkedInLearning\)](https://www.linkedin.com/learning/learning-angular)
-* [ ] [Angular Material](https://app.pluralsight.com/library/courses/angular-material/table-of-contents)
-* [ ] [Authentication in Angular with NGRX](http://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx/#.Wvl43Ygvy00)​
-* [ ] ​[Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)​
-* [ ] [Angular Security Using JSON Web Tokens](https://app.pluralsight.com/library/courses/angular-security-json-web-tokens/table-of-contents)​
+* [ ] [Angular: API Communication and Authentication \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-api-communication-
+
+* [Angular: Routing \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-routing/routing-modularization-and-lazy-loading)
+and-authentication)
+* [Learning Angular \(LinkedInLearning\)](https://www.linkedin.com/learning/learning-angular)
+* [Angular Material](https://app.pluralsight.com/library/courses/angular-material/table-of-contents)
+* [Authentication in Angular with NGRX](http://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx/#.Wvl43Ygvy00)​
+* [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)​
+* [Angular Security Using JSON Web Tokens](https://app.pluralsight.com/library/courses/angular-security-json-web-tokens/table-of-contents)
 
 ## Tutorials
 

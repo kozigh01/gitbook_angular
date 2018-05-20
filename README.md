@@ -17,7 +17,6 @@ description: Angular Resources and Examples
 * [x] [Learning the Angular CLI \(LinkedInLearning\)](https://www.linkedin.com/learning/learning-the-angular-cli-2)
 * [ ] [Angular 6 \(formerly Angular 2\) - The Complete Guide \(Udemy\)](https://www.udemy.com/the-complete-guide-to-angular-2)
 * [ ] [Angular: API Communication and Authentication \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-api-communication-and-authentication)
----
 * [Angular: Routing \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-routing/routing-modularization-and-lazy-loading)
 * [Learning Angular \(LinkedInLearning\)](https://www.linkedin.com/learning/learning-angular)
 * [Angular Material](https://app.pluralsight.com/library/courses/angular-material/table-of-contents)

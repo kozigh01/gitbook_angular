@@ -9,15 +9,15 @@ description: Angular Resources and Examples
 * [Angular](https://angular.io/)
 * [Angular Material Design](https://material.angular.io/)
 * [Angular Project Setup Notes](https://gist.github.com/kozigh01/769a0f1dcd5ff1af335a00d228b9075c)  
+* [json-server](https://github.com/typicode/json-server): simple rest API server
+  * Create A REST API With JSON Server: [Blog](https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d) \| [Youtube](https://www.youtube.com/watch?v=x3NAo8zqdmo)
 
 ## Courses
 
 * [x] [Learning the Angular CLI \(LinkedInLearning\)](https://www.linkedin.com/learning/learning-the-angular-cli-2)
 * [ ] [Angular 6 \(formerly Angular 2\) - The Complete Guide \(Udemy\)](https://www.udemy.com/the-complete-guide-to-angular-2)
 * [ ] [Angular: API Communication and Authentication \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-api-communication-and-authentication)
---------
 * [Angular: Routing \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-routing/routing-modularization-and-lazy-loading)
-
 * [Learning Angular \(LinkedInLearning\)](https://www.linkedin.com/learning/learning-angular)
 * [Angular Material](https://app.pluralsight.com/library/courses/angular-material/table-of-contents)
 * [Authentication in Angular with NGRX](http://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx/#.Wvl43Ygvy00)​
@@ -35,11 +35,6 @@ description: Angular Resources and Examples
 ### Error Solutions
 
 * [Angular Debugging "Expression has changed after it was checked": Simple Explanation \(and Fix\)](https://blog.angular-university.io/angular-debugging/)
-
-## Related Topics
-
-* [json-server](https://github.com/typicode/json-server): simple rest API server
-  * Create A REST API With JSON Server: [Blog](https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d) \| [Youtube](https://www.youtube.com/watch?v=x3NAo8zqdmo)
 
 ## Video
 

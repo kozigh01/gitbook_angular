@@ -18,6 +18,9 @@ description: Angular Resources and Examples
 * [ ] [Angular: API Communication and Authentication \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-api-communication-and-authentication)
 * [ ] [Learning Angular \(LinkedInLearning\)](https://www.linkedin.com/learning/learning-angular)
 * [ ] [Angular Material](https://app.pluralsight.com/library/courses/angular-material/table-of-contents)
+* [ ] [Authentication in Angular with NGRX](http://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx/#.Wvl43Ygvy00)​
+* [ ] ​[Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)​
+* [ ] [Angular Security Using JSON Web Tokens](https://app.pluralsight.com/library/courses/angular-security-json-web-tokens/table-of-contents)​
 
 ## Tutorials
 

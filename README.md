@@ -1,5 +1,5 @@
 ---
-description: Angular Resources and Examples a change
+description: Angular Resources and Examples
 ---
 
 # Angular Resources

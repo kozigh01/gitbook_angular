@@ -12,7 +12,7 @@ description: Angular Resources and Examples
 
 ## Courses
 
-* [Angular: Routing \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-routing/routing-modularization-and-lazy-loading)
+* [ ] [Angular: Routing \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-routing/routing-modularization-and-lazy-loading)
 * [Learning the Angular CLI \(LinkedInLearning\)](https://www.linkedin.com/learning/learning-the-angular-cli-2)
 * [Angular: API Communication and Authentication \(LinkedInLearning\)](https://www.linkedin.com/learning/angular-api-communication-and-authentication)
 * [Learning Angular \(LinkedInLearning\)](https://www.linkedin.com/learning/learning-angular)

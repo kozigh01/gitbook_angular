@@ -11,6 +11,7 @@ description: Angular Resources and Examples
 * [Angular Project Setup Notes](https://gist.github.com/kozigh01/769a0f1dcd5ff1af335a00d228b9075c)  
 * [json-server](https://github.com/typicode/json-server): simple rest API server
   * Create A REST API With JSON Server: [Blog](https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d) \| [Youtube](https://www.youtube.com/watch?v=x3NAo8zqdmo)
+* [Blox Material](https://blox.src.zone/material/guides): A lightweight Material Design library for Angular
 
 ## Courses
 

@@ -13,6 +13,7 @@ description: Angular Resources and Examples
   * Create A REST API With JSON Server: [Blog](https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d) \| [Youtube](https://www.youtube.com/watch?v=x3NAo8zqdmo)
 * [Blox Material](https://blox.src.zone/material/guides): A lightweight Material Design library for Angular
 * [ng-conf youtube](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA): 2018
+* Testing - hallow-render: [Git](https://github.com/getsaf/shallow-render)
 
 ## Courses
 
@@ -34,6 +35,9 @@ description: Angular Resources and Examples
 * [Authentication in Angular with NGRX](http://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx/#.Wvl43Ygvy00)​
 * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)​
 
+### Testing
+
+* [ ] 
 ### Error Solutions
 
 * [Angular Debugging "Expression has changed after it was checked": Simple Explanation \(and Fix\)](https://blog.angular-university.io/angular-debugging/)

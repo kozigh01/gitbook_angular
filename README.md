@@ -14,7 +14,7 @@ description: Angular Resources and Examples
   * Create A REST API With JSON Server: [Blog](https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d) \| [Youtube](https://www.youtube.com/watch?v=x3NAo8zqdmo)
 * [Blox Material](https://blox.src.zone/material/guides): A lightweight Material Design library for Angular
 * [ng-conf youtube](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA): 2018
-* Testing - hallow-render: [Git](https://github.com/getsaf/shallow-render)
+* Testing - shallow-render: [Git](https://github.com/getsaf/shallow-render)
 
 ## Courses
 

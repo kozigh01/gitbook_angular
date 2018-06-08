@@ -1,4 +1,4 @@
-# Course Notes: Learning the Angular CLI
+# Learning the Angular CLI
 
 ## Learning the Angular CLI
 

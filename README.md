@@ -29,6 +29,8 @@ description: Angular Resources and Examples
 ## Tutorials
 
 * [ ] [Material Design for Bootstrap 4](https://mdbootstrap.com/): [Tutorial](https://mdbootstrap.com/bootstrap-tutorial/)​
+* [ ] Coding the smart way: [site](https://codingthesmartway.com/)
+  * [ ] Angular 6 – MEAN Stack Crash Course, pt 1: [video](https://www.youtube.com/watch?v=x2_bcCZg8vQ&feature=youtu.be)
 
 ## Blog Posts
 

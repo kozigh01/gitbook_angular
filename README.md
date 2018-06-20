@@ -20,6 +20,7 @@ description: Angular Resources and Examples
 ### Angular 5 -&gt; 6 Migration
 
 * Angular Update Guide: [site](https://update.angular.io/)
+* Angular 6: Upgrading & Summary of New Features: [blog](https://alligator.io/angular/angular-6/)
 * Migrating to HttpClient: [blog](http://brianflove.com/2017/07/21/migrating-to-http-client/)
 * RxJS - v5 -&gt; v6
   * ​[RxJS v5.x to v6 Update Guide](https://github.com/ReactiveX/rxjs/blob/master/docs_app/content/guide/v6/migration.md)​

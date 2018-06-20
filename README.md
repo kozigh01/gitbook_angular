@@ -25,6 +25,7 @@ description: Angular Resources and Examples
   * ​[RxJS v5.x to v6 Update Guide](https://github.com/ReactiveX/rxjs/blob/master/docs_app/content/guide/v6/migration.md)​
   * Learn RxJS: [RxJS5 -&gt; RxJS6 Upgrade](https://www.learnrxjs.io/concepts/rxjs5-6.html)​
   * Auth0: RxJS 6: [What's new and what has changed](https://auth0.com/blog/whats-new-in-rxjs-6/)​
+  * Convert deprecated methods: [link](https://github.com/ReactiveX/rxjs/blob/master/docs_app/content/guide/v6/migration.md#dep-methods)
 
 ## Courses
 

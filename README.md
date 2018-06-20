@@ -40,6 +40,12 @@ description: Angular Resources and Examples
 * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)​
 * Subscribing to Multiple Observables in Angular Components: [Blog](https://coryrylan.com/blog/subscribing-to-multiple-observables-in-angular-components) \| [Demo](https://stackblitz.com/edit/angular-d6stek) \| Tags: async, ng-container, fork-join
 
+### Migrating
+
+#### Http to HttpClient
+
+* [ ] Migrating to HttpClient: [blog](http://brianflove.com/2017/07/21/migrating-to-http-client/)
+
 ### Testing
 
 * [ ] 

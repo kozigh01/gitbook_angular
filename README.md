@@ -22,6 +22,7 @@ description: Angular Resources and Examples
 * Angular Update Guide: [site](https://update.angular.io/)
 * Angular 6: Upgrading & Summary of New Features: [blog](https://alligator.io/angular/angular-6/)
 * Migrating to HttpClient: [blog](http://brianflove.com/2017/07/21/migrating-to-http-client/)
+* Upgrading and Application to Angular 6: Step by Step \(Dan Whalin\): [blog](https://blog.codewithdan.com/2018/05/03/upgrading-an-application-to-angular-6-step-by-step/)
 * RxJS - v5 -&gt; v6
   * ​[RxJS v5.x to v6 Update Guide](https://github.com/ReactiveX/rxjs/blob/master/docs_app/content/guide/v6/migration.md)​
   * Learn RxJS: [RxJS5 -&gt; RxJS6 Upgrade](https://www.learnrxjs.io/concepts/rxjs5-6.html)​
@@ -47,10 +48,10 @@ description: Angular Resources and Examples
 ## Blog Posts
 
 * [ ] Angular Elements — A Practical Introduction To Web Components With Angular 6: [Blog](https://medium.com/codingthesmartway-com-blog/angular-elements-a-practical-introduction-to-web-components-with-angular-6-52c0b3076c2c) \| [Youtube](https://www.youtube.com/watch?time_continue=3&v=hb00ZR4sipw)
-* [Upgrading and Application to Angular 6: Step by Step \(Dan Whalin\)](https://blog.codewithdan.com/2018/05/03/upgrading-an-application-to-angular-6-step-by-step/)
 * [Authentication in Angular with NGRX](http://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx/#.Wvl43Ygvy00)​
 * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)​
 * Subscribing to Multiple Observables in Angular Components: [Blog](https://coryrylan.com/blog/subscribing-to-multiple-observables-in-angular-components) \| [Demo](https://stackblitz.com/edit/angular-d6stek) \| Tags: async, ng-container, fork-join
+* Increasing rendering performance in Angular with Lazy Render \*ngFor: [blog](https://medium.com/@vyakymenko/increasing-rendering-performance-in-angular-with-lazy-render-ngfor-ae8c5d16e194)
 
 ### Http / HttpClient
 

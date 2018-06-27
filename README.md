@@ -34,7 +34,7 @@ description: Angular Resources and Examples
 * [x] Learning the Angular CLI \(LinkedInLearning\): [course](https://www.linkedin.com/learning/learning-the-angular-cli-2)
 * [ ] Angular 6 \(formerly Angular 2\) - The Complete Guide \(Udemy\): [course](https://www.udemy.com/the-complete-guide-to-angular-2)
 * [ ] Angular: API Communication and Authentication \(LinkedInLearning\): [course](https://www.linkedin.com/learning/angular-api-communication-and-authentication)
-* [ ] Angular NgRx: Getting Started: [course](https://app.pluralsight.com/library/courses/angular-ngrx-getting-started/table-of-contents) | [blog](https://blogs.msmvps.com/deborahk/angular-ngrx-getting-started-problem-solver/)
+* [ ] Angular NgRx: Getting Started: [course](https://app.pluralsight.com/library/courses/angular-ngrx-getting-started/table-of-contents) | [blog](https://blogs.msmvps.com/deborahk/angular-ngrx-getting-started-problem-solver/) | [course github](https://github.com/DeborahK/Angular-NgRx-GettingStarted)
 * Angular: Routing \(LinkedInLearning\): [course](https://www.linkedin.com/learning/angular-routing/routing-modularization-and-lazy-loading)
 * Learning Angular \(LinkedInLearning\): [course](https://www.linkedin.com/learning/learning-angular)
 * Angular Material: [course](https://app.pluralsight.com/library/courses/angular-material/table-of-contents)

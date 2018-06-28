@@ -53,8 +53,13 @@ description: Angular Resources and Examples
 * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)​
 * Subscribing to Multiple Observables in Angular Components: [Blog](https://coryrylan.com/blog/subscribing-to-multiple-observables-in-angular-components) \| [Demo](https://stackblitz.com/edit/angular-d6stek)
 * Increasing rendering performance in Angular with Lazy Render \*ngFor: [blog](https://medium.com/@vyakymenko/increasing-rendering-performance-in-angular-with-lazy-render-ngfor-ae8c5d16e194)
-* The Power of Structural Directives in Angular: [blog](https://netbasal.com/the-power-of-structural-directives-in-angular-bfe4d8c44fb1)
 * A Taste of Angular Material Virtual Scroll: [blog](https://netbasal.com/a-taste-of-angular-material-virtual-scroll-f173c5c70a1)
+
+### Directives
+
+* [ ] The Power of Structural Directives in Angular: [blog](https://netbasal.com/the-power-of-structural-directives-in-angular-bfe4d8c44fb1)
+* [ ] Understanding Angular Structural Directives: [blog](https://netbasal.com/understanding-angular-structural-directives-659acd0f67e)
+* [ ] Udemy \([Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)\): Directive Deep Dive: [video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656162?start=0)
 
 ### Http / HttpClient
 

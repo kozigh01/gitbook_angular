@@ -7,6 +7,6 @@
 
 ## Courses
 
-* [Learning the Angular CLI](courses/course-notes-learning-the-angular-cli.md)
+* [Learning the Angular CLI](courses/learning-the-angular-cli.md)
 * [Angular 6 - The Complete Guide](courses/angular-6-the-complete-guide.md)
 

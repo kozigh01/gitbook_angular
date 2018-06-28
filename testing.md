@@ -1,7 +1,3 @@
----
-description: All things Angular testing related
----
-
 # Testing
 
 ## Resources

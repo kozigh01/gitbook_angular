@@ -7,7 +7,7 @@ description: Angular Resources and Examples
 ## Resource Links
 
 * [Angular](https://angular.io/)
-*  Angular Update Guide: [site](https://update.angular.io/)
+* Angular Update Guide: [site](https://update.angular.io/)
 * [Angular Material Design](https://material.angular.io/)
 * [Angular Project Setup Notes](https://gist.github.com/kozigh01/769a0f1dcd5ff1af335a00d228b9075c)  
 * [Angular University](https://angular-university.io/)
@@ -34,7 +34,7 @@ description: Angular Resources and Examples
 * [x] Learning the Angular CLI \(LinkedInLearning\): [course](https://www.linkedin.com/learning/learning-the-angular-cli-2)
 * [ ] Angular 6 \(formerly Angular 2\) - The Complete Guide \(Udemy\): [course](https://www.udemy.com/the-complete-guide-to-angular-2)
 * [ ] Angular: API Communication and Authentication \(LinkedInLearning\): [course](https://www.linkedin.com/learning/angular-api-communication-and-authentication)
-* [ ] Angular NgRx: Getting Started: [course](https://app.pluralsight.com/library/courses/angular-ngrx-getting-started/table-of-contents) | [blog](https://blogs.msmvps.com/deborahk/angular-ngrx-getting-started-problem-solver/) | [course github](https://github.com/DeborahK/Angular-NgRx-GettingStarted)
+* [ ] Angular NgRx: Getting Started: [course](https://app.pluralsight.com/library/courses/angular-ngrx-getting-started/table-of-contents) \| [blog](https://blogs.msmvps.com/deborahk/angular-ngrx-getting-started-problem-solver/) \| [course github](https://github.com/DeborahK/Angular-NgRx-GettingStarted)
 * Angular: Routing \(LinkedInLearning\): [course](https://www.linkedin.com/learning/angular-routing/routing-modularization-and-lazy-loading)
 * Learning Angular \(LinkedInLearning\): [course](https://www.linkedin.com/learning/learning-angular)
 * Angular Material: [course](https://app.pluralsight.com/library/courses/angular-material/table-of-contents)
@@ -53,6 +53,8 @@ description: Angular Resources and Examples
 * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)​
 * Subscribing to Multiple Observables in Angular Components: [Blog](https://coryrylan.com/blog/subscribing-to-multiple-observables-in-angular-components) \| [Demo](https://stackblitz.com/edit/angular-d6stek) \| Tags: async, ng-container, fork-join
 * Increasing rendering performance in Angular with Lazy Render \*ngFor: [blog](https://medium.com/@vyakymenko/increasing-rendering-performance-in-angular-with-lazy-render-ngfor-ae8c5d16e194)
+* The Power of Structural Directives in Angular: [blog](https://netbasal.com/the-power-of-structural-directives-in-angular-bfe4d8c44fb1)
+* A Taste of Angular Material Virtual Scroll: [blog](https://netbasal.com/a-taste-of-angular-material-virtual-scroll-f173c5c70a1)
 
 ### Http / HttpClient
 
@@ -61,9 +63,7 @@ description: Angular Resources and Examples
 
 ### Testing
 
-* [ ] 
-### Error Solutions
-
+* [ ] **Error Solutions**
 * [Angular Debugging "Expression has changed after it was checked": Simple Explanation \(and Fix\)](https://blog.angular-university.io/angular-debugging/)
 
 ## Video

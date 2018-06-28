@@ -51,7 +51,7 @@ description: Angular Resources and Examples
 * [ ] Angular Elements — A Practical Introduction To Web Components With Angular 6: [Blog](https://medium.com/codingthesmartway-com-blog/angular-elements-a-practical-introduction-to-web-components-with-angular-6-52c0b3076c2c) \| [Youtube](https://www.youtube.com/watch?time_continue=3&v=hb00ZR4sipw)
 * [Authentication in Angular with NGRX](http://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx/#.Wvl43Ygvy00)​
 * [Comprehensive Introduction to @ngrx/store](https://gist.github.com/btroncone/a6e4347326749f938510)​
-* Subscribing to Multiple Observables in Angular Components: [Blog](https://coryrylan.com/blog/subscribing-to-multiple-observables-in-angular-components) \| [Demo](https://stackblitz.com/edit/angular-d6stek) \| Tags: async, ng-container, fork-join
+* Subscribing to Multiple Observables in Angular Components: [Blog](https://coryrylan.com/blog/subscribing-to-multiple-observables-in-angular-components) \| [Demo](https://stackblitz.com/edit/angular-d6stek)
 * Increasing rendering performance in Angular with Lazy Render \*ngFor: [blog](https://medium.com/@vyakymenko/increasing-rendering-performance-in-angular-with-lazy-render-ngfor-ae8c5d16e194)
 * The Power of Structural Directives in Angular: [blog](https://netbasal.com/the-power-of-structural-directives-in-angular-bfe4d8c44fb1)
 * A Taste of Angular Material Virtual Scroll: [blog](https://netbasal.com/a-taste-of-angular-material-virtual-scroll-f173c5c70a1)

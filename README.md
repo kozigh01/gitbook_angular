@@ -16,6 +16,7 @@ description: Angular Resources and Examples
 * [Blox Material](https://blox.src.zone/material/guides): A lightweight Material Design library for Angular
 * [ng-conf youtube](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA): 2018
 * Testing - shallow-render: [Git](https://github.com/getsaf/shallow-render)
+* Angular in memory web api: [git](https://github.com/angular/in-memory-web-api)
 
 ### Angular 5 -&gt; 6 Migration
 

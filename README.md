@@ -57,6 +57,7 @@ description: Angular Resources and Examples
 * Subscribing to Multiple Observables in Angular Components: [Blog](https://coryrylan.com/blog/subscribing-to-multiple-observables-in-angular-components) \| [Demo](https://stackblitz.com/edit/angular-d6stek)
 * Increasing rendering performance in Angular with Lazy Render \*ngFor: [blog](https://medium.com/@vyakymenko/increasing-rendering-performance-in-angular-with-lazy-render-ngfor-ae8c5d16e194)
 * A Taste of Angular Material Virtual Scroll: [blog](https://netbasal.com/a-taste-of-angular-material-virtual-scroll-f173c5c70a1)
+* Understand and Utilize the Async Pipe in Angular: [blog](http://briantroncone.com/?p=623)
 
 ### Directives
 

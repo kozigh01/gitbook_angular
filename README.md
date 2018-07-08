@@ -43,6 +43,7 @@ description: Angular Resources and Examples
 * Angular Material: [course](https://app.pluralsight.com/library/courses/angular-material/table-of-contents)
 * Angular Security Using JSON Web Tokens: [course](https://app.pluralsight.com/library/courses/angular-security-json-web-tokens/table-of-contents)
 * Angular 6 - MEAN Stack Crash Course:
+ * [ ] Part 1 - Front-end Project Setup and Routing: [youtube](https://codingthesmartway.com/angular-6-mean-stack-crash-course-part-1-front-end-project-setup-and-routing/)
 
 ## Tutorials
 

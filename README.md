@@ -42,10 +42,6 @@ description: Angular Resources and Examples
 * Learning Angular \(LinkedInLearning\): [course](https://www.linkedin.com/learning/learning-angular)
 * Angular Material: [course](https://app.pluralsight.com/library/courses/angular-material/table-of-contents)
 * Angular Security Using JSON Web Tokens: [course](https://app.pluralsight.com/library/courses/angular-security-json-web-tokens/table-of-contents)
-* [ ] Angular 6 - MEAN Stack Crash Course:
-    * [ ] Part 1 - Front-end Project Setup and Routing: [youtube](https://codingthesmartway.com/angular-6-mean-stack-crash-course-part-1-front-end-project-setup-and-routing/)
-    * [ ] Part 2: Implementing The Back-end: [youtube](https://www.youtube.com/watch?v=a30flH_q5-A)
-    * [ ] Part 3: Connecting Front-end To Back-end: [youtube](https://www.youtube.com/watch?v=HTqghYMRrtA)
 
 ## Tutorials
 

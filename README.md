@@ -63,6 +63,7 @@ description: Angular Resources and Examples
 
 * [ ] The Power of Structural Directives in Angular: [blog](https://netbasal.com/the-power-of-structural-directives-in-angular-bfe4d8c44fb1)
 * [ ] Understanding Angular Structural Directives: [blog](https://netbasal.com/understanding-angular-structural-directives-659acd0f67e)
+* [ ] Structural Directives - How do they work: [youtube](https://www.youtube.com/watch?v=rr1MIDY0FUg)
 * [ ] Udemy \([Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)\): Directive Deep Dive: [video](https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/t/lecture/6656162?start=0)
 
 ### Http / HttpClient

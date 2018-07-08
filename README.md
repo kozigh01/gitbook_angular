@@ -42,6 +42,7 @@ description: Angular Resources and Examples
 * Learning Angular \(LinkedInLearning\): [course](https://www.linkedin.com/learning/learning-angular)
 * Angular Material: [course](https://app.pluralsight.com/library/courses/angular-material/table-of-contents)
 * Angular Security Using JSON Web Tokens: [course](https://app.pluralsight.com/library/courses/angular-security-json-web-tokens/table-of-contents)
+* Angular 6 - MEAN Stack Crash Course:
 
 ## Tutorials
 
